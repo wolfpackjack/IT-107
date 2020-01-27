@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(cranberry-chicken-salad.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1,h2
+{
+    text-align: center;
+    color: blueviolet;
+    border: 5px dashed deeppink;
+    padding: 10px;
+    
+}
+div
+{
+    margin-left: 45%;
+    list-style: inside;
+}
